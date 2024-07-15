@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a third year undergraduate student from [School of AI](https://sai.xidian.edu.cn/), [XIDIAN University](https://www.xidian.edu.cn/). My research interest includes computer vision, machine learning, and artificial intelligence.
+
+I am very fortunate to be advised by [Prof. Chao Wang](https://faculty.sustech.edu.cn/?tagid=wangc6&iscss=1&snapid=1&orderby=date&go=1) from [School of Statistics and Data Science](https://stat-ds.sustech.edu.cn/), [SUSTech University](https://www.sustech.edu.cn/). I was advised by [Prof. XX]() from [School of Computer Science](), Peking University.
+
+You can find my CV here: [Rongkun Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:zhurongkun@stu.xidian.edu.cn) / [CSDN](https://blog.csdn.net/mrpig13?spm=1010.2135.3001.5421) / [Wechat](../images/wechat.jpg) / [Github](https://github.com/Zippppo)
 
 A data-driven personal website
 ======
