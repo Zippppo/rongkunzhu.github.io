@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Chao Wang](https://faculty.sustech.e
 
 You can find my CV here: [Rongkun Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:zhurongkun@stu.xidian.edu.cn) / [CSDN](https://blog.csdn.net/mrpig13?spm=1010.2135.3001.5421) / [Wechat](../images/wechat.jpg) / [Github](https://github.com/Zippppo)
+[Email](mailto:zhurongkun@stu.xidian.edu.cn) / [CSDN](https://blog.csdn.net/mrpig13?spm=1010.2135.3001.5421) / [Wechat](../images/wechat.JPG) / [Github](https://github.com/Zippppo)
 
 A data-driven personal website
 ======
