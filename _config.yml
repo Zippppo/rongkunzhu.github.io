@@ -28,7 +28,7 @@ author:
   location         : "China Xian"
   employer         : 
   uri              : # URL
-  email            : 
+  email            : mrpigzrk@gmail.com
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,8 @@ author:
   dribbble         : # Username
   github           : "https://github.com/Zippppo"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood") 
+  CSDN             : "https://blog.csdn.net/mrpig13?spm=1010.2135.3001.5421"
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
