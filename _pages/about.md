@@ -14,3 +14,9 @@ I am very fortunate to be advised by [Prof. Chao Wang](https://faculty.sustech.e
 You can find my CV here: [Rongkun Zhu's Curriculum Vitae](./assets/CV.pdf).
 
 [Email](mailto:zhurongkun@stu.xidian.edu.cn) / [CSDN](https://blog.csdn.net/mrpig13?spm=1010.2135.3001.5421) / [Wechat](../images/wechat.JPG) / [Github](https://github.com/Zippppo)
+
+---
+
+📰 News
+Jul 2024: I attend a seminar titled “AI: Optimization, Theory & Responsibility” during the summer of 2024 at SUSTech, under the supervision of [Prof. Chao Wang](https://faculty.sustech.edu.cn/?tagid=wangc6&iscss=1&snapid=1&orderby=date&go=1), as the keynote speaker for the **responsible AI** section. For more details, please visit the [seminar page](https://wma17.github.io/24summer/).
+Jul 2024: I started my journey as a visiting student in [Prof. Chao Wang's](https://faculty.sustech.edu.cn/?tagid=wangc6&iscss=1&snapid=1&orderby=date&go=1) group at SUSTech.
