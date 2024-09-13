@@ -20,7 +20,7 @@ You can find my CV here: [Rongkun Zhu's Curriculum Vitae](./assets/CV.pdf).
 📰 News
 
 **Aug 2024**: My team competed in the **Chinese Collegiate Computing Competition** (CCCC), and achieved a **national-level bronze medal**. Under supervision of [Prof. Kai Wu](https://web.xidian.edu.cn/kwu/),and [Prof. Dan Wang](https://web.xidian.edu.cn/danwang/)🎉🎉 
-_(A total of **993** universities participated nationwide, with 1,100 students from my university. Only 4 teams from our university advanced to the national finals, and the proportion of national bronze medals awarded did not exceed 60%) 
+(A total of **993** universities participated nationwide, with 1,100 students from my university. Only 4 teams from our university advanced to the national finals, and the proportion of national bronze medals awarded did not exceed 60%) 
 
 **Jul 2024**: I attend a seminar titled “AI: Optimization, Theory & Responsibility” during the summer of 2024 at SUSTech, under the supervision of [Prof. Chao Wang](https://faculty.sustech.edu.cn/?tagid=wangc6&iscss=1&snapid=1&orderby=date&go=1), as the keynote speaker for the **responsible AI** section. For more details, please visit the [seminar page](https://wma17.github.io/24summer/).
 
