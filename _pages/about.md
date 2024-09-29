@@ -22,6 +22,7 @@ You can find my CV here: [Rongkun Zhu's Curriculum Vitae](https://github.com/Zip
 # 📰 News
 
 ---
+**Sep 2024**: I earned the opportunity as a candidate for the NATIONAL SCHOLARSHIP, which is the highest honor an undergraduate student can receive. (10/340)🎉🎉 
 
 **Aug 2024**: My team competed in the Chinese Collegiate Computing Competition (CCCC), and achieved a **national-level bronze medal(about 2%)**. Under supervision of [Prof. Kai Wu](https://web.xidian.edu.cn/kwu/),and [Prof. Dan Wang](https://web.xidian.edu.cn/danwang/).🎉🎉 
 
